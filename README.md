@@ -13,6 +13,8 @@ List of files: Account.cc Account.h
 	       Subject.h Subject.cc
                Main.cc
                Defs.h
+	       
 Compilation: make
+
 Launching: ./bsys
 Instruction: According to the choices on the main menu
