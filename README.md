@@ -1,6 +1,9 @@
 Program: bsysPosted
+
 Author: Liang Ma
-purpose: add observer to the bank rogram
+
+purpose: add observer to the bank program
+
 List of files: Account.cc Account.h
                AcctArray.cc AcctArray.h
                Bank.cc Bank.h
